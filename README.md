@@ -463,6 +463,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 ### Community Resources
 
+- [DevScratchpad AI Skill Studio](https://www.devscratchpad.tech/ai-skill-studio/claude-skills) - 100% client-side generator and interactive editor for Claude Code `SKILL.md` files and `.claude/skills/` directives with 36+ battle-tested stack presets.
 - [Anthropic Skills Repository](https://github.com/anthropics/skills) - Official example skills
 - [Claude Community](https://community.anthropic.com) - Discuss skills with other users
 - [Skills Marketplace](https://claude.ai/marketplace) - Discover and share skills
